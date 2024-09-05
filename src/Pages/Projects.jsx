@@ -5,7 +5,7 @@ import { Helmet } from "react-helmet";
 const Projects = () => {
 
   const projects = [
-    { icon: `fa-solid fa-earth-europe`, title: "aixe.dev", description: "The website you're currently on! Made with React and utilises serverless functions.", url: "https://aixe.dev/" },
+    { icon: `fa-solid fa-earth-europe`, title: "Ven Code", description: "Orada Github Dan Kodladığımız Altyapıları Paylaşırız", url: "https://discord.com/invite/ZenmwjyTJ7" },
   ]
 
   return (
