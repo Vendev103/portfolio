@@ -7,7 +7,9 @@ const Projects = () => {
   const projects = [
     { icon: `fa-solid fa-earth-europe`, title: "Ven Code", description: "Orada Github Dan Kodladığımız Altyapıları Paylaşırız", url: "https://discord.com/invite/ZenmwjyTJ7" },
   ]
-
+  const projects = [
+    { icon: `fa-solid fa-earth-europe`, title: "Ven Code", description: "Orada Github Dan Kodladığımız Altyapıları Paylaşırız", url: "https://discord.com/invite/ZenmwjyTJ7" },
+  ]
   return (
     <div>
       <Helmet>
